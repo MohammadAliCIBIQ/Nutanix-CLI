@@ -1,0 +1,4 @@
+ncli cluster get-name-servers                          \View current DNS servers
+ncli cluster add-name-servers servers=10.10.10.10      \Add a DNS server
+ncli cluster add-name-servers servers=10.10.10.10,10.10.10.11   
+ncli cluster remove-name-servers servers=10.10.10.10
