@@ -1,0 +1,2 @@
+ncli user reset-password user-name=admin password=CBIQcbiq!@#123                 \reset local user
+allssh sudo faillock --user admin                                                \unloack
