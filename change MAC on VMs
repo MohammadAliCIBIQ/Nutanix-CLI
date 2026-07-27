@@ -1,0 +1,2 @@
+acli vm.nic_create Docushare-BAK0101 network=Server_VLAN mac=14:02:ec:05:8d:29                \change MAC on VMs
+ 
